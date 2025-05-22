@@ -12,7 +12,7 @@ function createWindow () {
 });
 
 // Carrega o arquivo index.html na janela
-  window.loadFile('src/pages/index.html');
+  window.loadFile('src/pages/cadastro.html');
 }
 
 app.whenReady().then( () => {
